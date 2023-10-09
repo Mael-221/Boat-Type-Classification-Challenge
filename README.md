@@ -12,7 +12,7 @@ Ce notebook illustre ma participation à une compétition de deep learning visan
 Les données utilisées pour cette compétition sont stockées dans le dossier `dataset` et comprennent des images de différents types de bateaux.
 
 ## Comment visualiser le notebook
-1. Clonez ce repo : `git clone [URL_DU_REPO]`
+1. Clonez ce repo : `git clone git@github.com:Mael-221/Boat-Type-Classification-Challenge.git`
 2. Assurez-vous d'avoir Jupyter Notebook installé. Si ce n'est pas le cas, installez-le avec : `pip install jupyter`
 3. Naviguez vers le dossier du repo et lancez Jupyter Notebook : `jupyter notebook`
 4. Ouvrez le notebook depuis l'interface de Jupyter pour le visualiser et l'exécuter.
